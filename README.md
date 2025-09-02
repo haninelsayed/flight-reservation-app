@@ -35,7 +35,7 @@ Users can book flights, view reservations in a table, and edit or delete them - 
    ```bash
    git clone https://github.com/haninelsayed/flight-reservation-app.git
    cd flight-reservation-app
-   2. Create and activate a virtual environment:
+2. Create and activate a virtual environment:
    ```bash
    python -m venv .venv
    # Windows (PowerShell)
